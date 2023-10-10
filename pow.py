@@ -1,5 +1,6 @@
 
 
-def pow(a):
-    return a**2
+def pow(a,n):
+    print("ahora pow mas general")
+    return a**n
 

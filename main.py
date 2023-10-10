@@ -19,6 +19,7 @@ if __name__ == "__main__":
     print(c)
     
     
-    d = pow(2)
+    d = pow(2,4)
     print("pow desde michel")
     print(d)
+    print("pow general desde Daris")
