@@ -1,5 +1,5 @@
-import suma from suma 
-import mult from mult
+from suma import suma  
+from mul import mul 
 
 
 
@@ -7,7 +7,7 @@ import mult from mult
 if __name__ == "__main__":
     print("hola mundo")
     print("Calculadora en equipo")
-    suma()
+    suma(2,6)
     print("modificado en michel")
 
     a = mult(2,2)
