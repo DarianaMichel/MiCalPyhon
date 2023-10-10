@@ -10,6 +10,6 @@ if __name__ == "__main__":
     suma(2,6)
     print("modificado en michel")
 
-    a = mult(2,2)
+    a = mul(2,2)
     print("modificado en dariana")
     print(a)
