@@ -1,9 +1,7 @@
+import suma from suma 
 
 
 
-
-def suma():
-    pass
 
 def mult():
     pass
@@ -12,3 +10,6 @@ def mult():
 if __name__ == "__main__":
     print("hola mundo")
     print("Calculadora en equipo")
+    suma()
+    
+    print("modificado en michel")
